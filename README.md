@@ -1,0 +1,1 @@
+# eclipseaddons.copysettings
