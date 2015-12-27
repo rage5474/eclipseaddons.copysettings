@@ -2,7 +2,7 @@
 
 ## When does this Eclipse Plugin help you?
 * You developing with Eclipse.
-* You don't using Project Specific Settings instead of Workspace Settings.
+* You use Project Specific Settings instead of Workspace Settings.
 * You have a bunch of Eclipse Projects with the same Project specific Settings.
 * You don't want to change each Project separately. 
 
