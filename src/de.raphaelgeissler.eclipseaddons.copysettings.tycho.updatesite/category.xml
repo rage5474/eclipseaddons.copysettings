@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/de.raphaelgeissler.eclipseaddons.copysettings.feature_1.0.0.qualifier.jar" id="de.raphaelgeissler.eclipseaddons.copysettings.feature" version="1.0.0.qualifier">
+      <category name="de.raphaelgeissler.eclipseaddons"/>
+   </feature>
+   <category-def name="de.raphaelgeissler.eclipseaddons" label="Eclipse Addons (Experimental)"/>
+</site>

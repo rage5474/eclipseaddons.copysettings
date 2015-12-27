@@ -1,0 +1,22 @@
+<project> 
+<modelVersion>4.0.0</modelVersion>
+  <groupId>de.raphaelgeissler</groupId>
+  <artifactId>de.raphaelgeissler.eclipseaddons.copysettings.tycho.aggregator</artifactId>
+  <packaging>pom</packaging>
+  
+   <parent>
+    <groupId>de.raphaelgeissler</groupId>
+    <artifactId>de.raphaelgeissler.eclipseaddons.copysettings.tycho.parent</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <relativePath>../de.raphaelgeissler.eclipseaddons.copysettings.tycho.parent</relativePath>
+  </parent>
+
+  <modules>
+    <module>../de.raphaelgeissler.eclipseaddons.copysettings.feature</module>
+    <module>../de.raphaelgeissler.eclipseaddons.copysettings</module>
+    <module>../de.raphaelgeissler.eclipseaddons.copysettings.test</module>
+ 	<module>../de.raphaelgeissler.eclipseaddons.copysettings.tycho.updatesite</module>
+  </modules>
+<version>1.0.0</version>
+</project> 
+

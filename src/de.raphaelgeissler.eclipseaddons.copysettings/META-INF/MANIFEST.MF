@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Copysettings
+Bundle-SymbolicName: de.raphaelgeissler.eclipseaddons.copysettings;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime;bundle-version="3.11.1",
+ org.eclipse.jdt.core;bundle-version="3.11.1",
+ org.eclipse.core.resources;bundle-version="3.10.1",
+ org.apache.commons.io;bundle-version="2.2.0"
