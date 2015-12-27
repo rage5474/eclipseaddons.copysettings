@@ -19,4 +19,5 @@ https://dl.bintray.com/rage5474/eclipse/update-site/1.0.0/
 6.  Open context menu.
 7.  Select Copy Project Specific Settings -> Apply Settings.
 
-
+## Under which license is this Eclipse Plugin published?
+EPL 1.0. See http://www.eclipse.org/org/documents/epl-v10.php.
