@@ -6,6 +6,10 @@
 * You have a bunch of Eclipse Projects with the same Project specific Settings.
 * You don't want to change each Project separately. 
 
+## How can I install this Eclipse Plugin?
+Installation can be done via Eclipse Update-Site:
+https://dl.bintray.com/rage5474/eclipse/update-site/1.0.0/
+
 ## How does this Eclipse Plugin works?
 1.  Change Project Specific Settings for one Eclipse Project.
 2.  Select changed Project (only one Project) in Package Explorer.
