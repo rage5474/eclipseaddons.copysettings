@@ -8,7 +8,7 @@
 
 ### How can I install this Eclipse Plugin?
 Installation can be done via Eclipse Update-Site:
-https://dl.bintray.com/rage5474/eclipse/update-site/1.0.0/
+https://s3.eu-central-1.amazonaws.com/de.raphaelgeissler.eclipse.updatesites/copysettings/0.0.1/repository/
 
 ### How does this Eclipse Plugin works?
 1.  Change Project Specific Settings for one Eclipse Project.
