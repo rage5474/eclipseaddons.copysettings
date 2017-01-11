@@ -10,7 +10,7 @@
 Installation can be done via Eclipse Update-Site:
 https://github.com/rage5474/updatesites/blob/master/eclipseaddons.copysettings/0.0.1?raw=true
 
-### How does this Eclipse Plugin works?
+### How does this Eclipse Plugin work?
 1.  Change Project Specific Settings for one Eclipse Project.
 2.  Select changed Project (only one Project) in Package Explorer.
 3.  Open context menu of changed Project.
